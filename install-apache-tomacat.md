@@ -1,7 +1,6 @@
 # Setting up TOMCAT SERVER  on CentOS
-## https://downloads.apache.org/tomcat/tomcat-11/v11.0.0-M26/
+## url for tomcat https://downloads.apache.org/tomcat/tomcat-11/v11.0.0-M26/
 ## Step 1: Locate the Java Installation Path
-To find the location of Java, run the following command:
 
 ```bash
 #first we need to install the java jdk on the centos and we need to check the required jdk version that works well with the tomcat server
